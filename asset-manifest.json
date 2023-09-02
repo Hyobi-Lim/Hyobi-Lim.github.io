@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Green-Earth_Front-end/static/css/main.e18e797e.css",
+    "main.js": "/Green-Earth_Front-end/static/js/main.e92a69e9.js",
+    "static/js/787.ae744f26.chunk.js": "/Green-Earth_Front-end/static/js/787.ae744f26.chunk.js",
+    "index.html": "/Green-Earth_Front-end/index.html",
+    "main.e18e797e.css.map": "/Green-Earth_Front-end/static/css/main.e18e797e.css.map",
+    "main.e92a69e9.js.map": "/Green-Earth_Front-end/static/js/main.e92a69e9.js.map",
+    "787.ae744f26.chunk.js.map": "/Green-Earth_Front-end/static/js/787.ae744f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18e797e.css",
+    "static/js/main.e92a69e9.js"
+  ]
+}
